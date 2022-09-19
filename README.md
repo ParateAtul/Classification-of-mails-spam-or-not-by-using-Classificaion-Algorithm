@@ -1,0 +1,2 @@
+# Classification-of-mails-spam-or-not-by-using-Classificaion-Algorithm
+To predict the mail is spam or not by using classification techniques like Logistic Regression, Navie Bayes classifier, Support Vector Machine, KNN, Decision Tree, Ensemble Learning, Bagging, Random forest, Adaboost, Gradient Boost, XGBoost. Here we find accuracy of each model, then did hyper parameter tunning for each model, then again retrain the model on best parameter.
